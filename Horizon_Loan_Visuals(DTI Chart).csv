@@ -1,0 +1,9 @@
+﻿Default Rate by DTI Ratio Band,,,
+Source: Combined Data tab | COUNTIF / SUMIFS compute default rate per band live,,,
+,,,
+DTI Ratio Band,Total Loans,Defaults,Default Rate
+Low (<20%),48,8,16.7%
+Moderate (20-29%),78,10,12.8%
+High (30-39%),107,12,11.2%
+Very High (40%+),368,116,31.5%
+Portfolio Average,,,24.3%

@@ -1,0 +1,17 @@
+﻿Default Rate by Loan Purpose,,,
+Source: Combined Data tab | COUNTIF / SUMIFS compute default rate per purpose live,,,
+,,,
+Loan Purpose,Total Loans,Defaults,Default Rate
+Auto Loan,59,16,27.1%
+Business Loan,58,14,24.1%
+Debt Consolidation,51,11,21.6%
+Education,53,12,22.6%
+Home Improvement,70,20,28.6%
+Major Purchase,68,15,22.1%
+Medical Expenses,68,14,20.6%
+Moving,56,12,21.4%
+Vacation,62,14,22.6%
+Wedding,56,18,32.1%
+Portfolio Average,,,24.3%
+,,,
+Note: table above is sorted alphabetically so it stays correct if source data changes; sort the range manually (or by Default Rate column) before re-reading the chart if you want it ranked.,,,

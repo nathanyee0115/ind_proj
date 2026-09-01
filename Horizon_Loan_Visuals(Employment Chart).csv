@@ -1,0 +1,10 @@
+﻿Default Rate by Employment Status,,,
+Source: Combined Data tab | COUNTIF / SUMIFS compute default rate per status live,,,
+,,,
+Employment Status,Total Loans,Defaults,Default Rate
+Contract,66,15,22.7%
+Full-Time,305,73,23.9%
+Part-Time,65,18,27.7%
+Retired,60,14,23.3%
+Self-Employed,105,26,24.8%
+Portfolio Average,,,24.3%

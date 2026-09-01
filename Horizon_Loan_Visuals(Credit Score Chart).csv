@@ -1,0 +1,10 @@
+﻿Default Rate by Credit Score Tier,,,
+Source: Combined Data tab | COUNTIF / SUMIFS compute default rate per tier live,,,
+,,,
+Credit Score Tier,Total Loans,Defaults,Default Rate
+Poor (<580),74,32,43.2%
+Fair (580-669),158,57,36.1%
+Good (670-739),120,25,20.8%
+Very Good (740-799),106,11,10.4%
+Excellent (800+),143,21,14.7%
+Portfolio Average,,,24.3%
